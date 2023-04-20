@@ -18,6 +18,13 @@ public class Polynominal
                 continue;
             if (stringBuilder.Length > 0 && _coefficients[i] > 0)
                 stringBuilder.Append('+');
+            if (i == 0 || _coefficients[i] != 1)
+                stringBuilder.Append(_coefficients[i]);
+            if (i>0)
+                stringBuilder.Append('x');
+            if (i > 1)
+                stringBuilder.Append("^" + i);
         }
+        return stringBuilder.ToString();
     }
 }
