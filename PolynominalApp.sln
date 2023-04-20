@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynominalApp", "PolynominalApp.csproj", "{DDC33922-CFFB-42EA-B53E-674DB00BC3E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC33922-CFFB-42EA-B53E-674DB00BC3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC33922-CFFB-42EA-B53E-674DB00BC3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC33922-CFFB-42EA-B53E-674DB00BC3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC33922-CFFB-42EA-B53E-674DB00BC3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B93D9219-02A0-4F90-B022-DC97833364FA}
+	EndGlobalSection
+EndGlobal
